@@ -1,0 +1,15 @@
+# Direct dependencies imported by the project (Python 3.11 or 3.12).
+# The upstream environment snapshot is retained in docs/ for reference.
+hydra-core>=1.3.2,<2
+litellm>=1.80,<2
+pydantic>=2.10,<3
+pandas>=2.2,<4
+numpy>=1.26,<3
+matplotlib>=3.8,<4
+scienceplots>=2.1,<3
+scikit-learn>=1.5,<2
+sentence-transformers>=3.0,<6
+statsmodels>=0.14,<1
+stargazer>=0.0.7,<1
+tqdm>=4.60,<5
+python-dotenv>=1.0,<2
